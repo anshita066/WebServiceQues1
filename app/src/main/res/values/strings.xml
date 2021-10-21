@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WebServiceQues1</string>
+    <string name="id_s_between_1_to_10">ID\'s Between 1 to 10</string>
+    <string name="enter_number">Enter number</string>
+    <string name="get_details">Get Details</string>
+    <string name="id">ID</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+</resources>
